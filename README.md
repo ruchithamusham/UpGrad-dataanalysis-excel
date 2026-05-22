@@ -1,8 +1,11 @@
 # UpGrad-dataanalysis-excel
 **Tools Used**:
 Microsoft excel, pivot tables, conditonal formatting
-##Assignment: High profit and loss making sub-categories:
+
+##Assignment: High profit and loss making sub-categories
+
 *observations*:
+
 **High profit categories**:
 --> Telephones, Office Machines and Binders were top 3 profitable sub-categories across most regions
 --> Exception 1: Office Machines had negative profit  in West region but top in remaining regions
